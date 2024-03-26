@@ -4,9 +4,9 @@ DESCRIPTION
 This is a web-based implementation of the popular puzzle game "2048" created using JavaScript, HTML, and CSS. The objective of the game is to slide numbered tiles on a grid to combine them, resulting in a tile with the number 2048. The game continues until no more moves can be made, or the player reaches the 2048 tile.
 
 FEATURES
- - Responsive Design: The game is designed to adapt to different screen sizes, making it playable on both desktop and mobile devices.
  - Scoring System: The game keeps track of the player's score, which increases as tiles are combined.
  - Game Over Detection: When the game is over (i.e., no more valid moves), the player is notified, and they can choose to restart the game.
+ - Game Win Detection: When the game is over and player won, the player is notified, and they can choose to restart the game.
  - Simple and Intuitive UI: The user interface is straightforward and easy to understand, with clear instructions on how to play.
 
 TECHNOLOGIES USED
