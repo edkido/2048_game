@@ -1,6 +1,7 @@
 # 2048 Game by Eduard Herasym
 
 DESCRIPTION
+
 This is a web-based implementation of the popular puzzle game "2048" created using JavaScript, HTML, and CSS. The objective of the game is to slide numbered tiles on a grid to combine them, resulting in a tile with the number 2048. The game continues until no more moves can be made, or the player reaches the 2048 tile.
 
 FEATURES
